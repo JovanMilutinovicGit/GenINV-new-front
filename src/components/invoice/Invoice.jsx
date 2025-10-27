@@ -11,7 +11,7 @@ import { format } from "date-fns";
 // 🎨 Stilovi inspirisani izgledom sa slike
 
 Font.register({
-  family: "OpenSans",
+  family: "DejaVuSans",
   src: "/public/fonts/DejaVuSans.ttf",
 });
 
