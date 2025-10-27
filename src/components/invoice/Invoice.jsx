@@ -19,7 +19,7 @@ const styles = StyleSheet.create({
   page: {
     padding: 40,
     fontSize: 11,
-    fontFamily: "OpenSans",
+    fontFamily: "DejaVuSans",
     lineHeight: 1.4,
   },
   header: {
