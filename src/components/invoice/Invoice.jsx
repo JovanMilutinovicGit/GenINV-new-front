@@ -12,7 +12,7 @@ import { format } from "date-fns";
 
 Font.register({
   family: "OpenSans",
-  src: "../../../public/fonts/DejaVuSans.ttf",
+  src: "/public/fonts/DejaVuSans.ttf",
 });
 
 const styles = StyleSheet.create({
