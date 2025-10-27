@@ -1,0 +1,54 @@
+.history-table {
+  border: 2px solid brown;
+  padding: 10px;
+}
+
+.history-table table {
+  width: 100%;
+}
+
+.history-table {
+  border: 2px solid brown;
+  width: 100%;
+  margin-top: 10px;
+  font-size: 13px;
+}
+
+.history-table table thead td {
+  border: 2px solid brown;
+}
+tbody {
+  width: 100%;
+}
+.history td {
+  width: 50px;
+}
+.history-table table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+  border: 1px solid #800; /* primer boje */
+}
+
+.history-table th,
+.history-table td {
+  border: 1px solid #800;
+  padding: 4px 8px;
+  vertical-align: top;
+}
+
+.history-table th {
+  background-color: #f3f3f3;
+  font-weight: bold;
+}
+
+.history-table td {
+  white-space: nowrap;
+}
+
+.history-actions {
+  display: flex;
+
+  align-items: center;
+  border: none;
+}

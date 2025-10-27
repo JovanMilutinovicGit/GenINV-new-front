@@ -1,0 +1,38 @@
+@media (min-width: 370px) and (max-width: 440px) {
+  .gen-inv {
+    padding: 10px;
+  }
+  .gen-inv-inputs {
+    border: 2px solid brown;
+    height: 330px;
+    padding: 10px;
+  }
+  .products-list {
+    display: flex;
+    justify-content: center;
+    align-items: c;
+  }
+  .reset-btn {
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 10px;
+  }
+  .gen-inv-first {
+    display: flex;
+    justify-content: space-between;
+  }
+  .gen-inv-first button {
+    padding: 10px;
+    border: none;
+    background-color: aquamarine;
+    font-weight: 600;
+  }
+  .sum {
+    display: flex;
+    justify-content: flex-end;
+  }
+  .history-section {
+    margin-top: 10px;
+  }
+}

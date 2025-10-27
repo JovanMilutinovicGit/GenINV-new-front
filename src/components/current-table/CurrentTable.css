@@ -1,0 +1,43 @@
+@media (min-width: 370px) and (max-width: 440px) {
+  .current-table {
+    border: 2px solid brown;
+    width: 100%;
+    margin-top: 10px;
+    font-size: 13px;
+  }
+
+  .current-table table thead td {
+    border: 2px solid brown;
+  }
+  tbody {
+    width: 100%;
+  }
+  .current-table td {
+    width: 50px;
+  }
+  .current-table table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+    border: 1px solid #800; /* primer boje */
+  }
+
+  .current-table th,
+  .current-table td {
+    border: 1px solid #800;
+    padding: 4px 8px;
+    vertical-align: top;
+  }
+
+  .current-table th {
+    background-color: #f3f3f3;
+    font-weight: bold;
+  }
+
+  .current-table td {
+    white-space: nowrap;
+  }
+  .actions {
+    color: red;
+  }
+}
